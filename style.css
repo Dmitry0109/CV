@@ -1,14 +1,25 @@
 .flex {
     height: auto;
-    width: 600px;
-    background-color: #096eeb;
+    width: 800px;
+    
 
 }
 .container {
+  border: 5px solid rgb(111,41,97);
+  border-radius: .5em;
+  padding: 10px;
   display: flex;
   flex-direction: column;
   align-items: center;
+  
 }
 hr {
-  width: 28%;
+  width: 57%;
+  height: 1px;
 }
+h1{
+  font-size: 40px;
+  text-align: center;
+}
+body {
+  background-color: rgb(189, 250, 254);
