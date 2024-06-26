@@ -33,6 +33,7 @@ I want to gain knowledge and skills that will allow me to become a Fron-end deve
 3. Git, GitHub
 4. VS Code
 5. JavaSkript
+6. JS
 
 ---
 
